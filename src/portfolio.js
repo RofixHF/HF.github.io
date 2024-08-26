@@ -519,8 +519,23 @@ const experience = {
           location: "Work From Home",
           color: "#D83B01",
         },
-      
-      
+        {
+        title: "SEA-CRO",
+          company: "THE WAY UP GMBH",
+          logo_path: "twu-gg.png",
+          duration: "OCT 2023- JUL 2024",
+          location: "Work From Home",
+          color: "#D83B01",
+        },
+        
+        {title: "Google Ads Optimization",
+          company: "Amasi Shop",
+          logo_path: "AMASI-gg.png",
+          duration: "FEB 2024- JUL 2024",
+          location: "Work From Home",
+          color: "#D83B01",
+   
+        },
       ],
     },
   ],

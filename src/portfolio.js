@@ -468,7 +468,7 @@ const experience = {
         {
 
           title: "Facebook Ads",
-          company: "A screenshoot from my facebook dashboard   ",
+          company: "SaaS Campaigns  ",
           logo_path: "scrfb.png",
           duration: "Apr  2022",
           location: "Work From Home",
@@ -477,7 +477,7 @@ const experience = {
         {
 
           title: "Tik padel Campaign",
-          company: "Results for traffic campaign  ",
+          company: "Google Ads Results for traffic campaign | E-com Sport Niche  ",
           logo_path: "sar.jpg",
           duration: "OCT  2022",
           location: "Work From Home",
@@ -485,8 +485,8 @@ const experience = {
         },
         {
 
-          title: "snapcaht Campaign",
-          company: "Results for traffic campaign  ",
+          title: "Snapchat Campaign",
+          company: "Results for Marketing Campaigns | E-com Beauty Niche  ",
           logo_path: "snapads.jpg",
           duration: "Apr  2022",
           location: "Work From Home",
@@ -516,6 +516,20 @@ const experience = {
           company: "titresservices /belguim Cleaning services",
           logo_path: "kd.png",
           duration: "Mar 2022",
+          location: "Work From Home",
+          color: "#D83B01",
+        },{
+        title: "SEA/CRO",
+          company: "THE WAY UP GMBH",
+          logo_path: "twu-gg.png",
+          duration: "OCT 23 - JUL 24",
+          location: "Work From Home",
+          color: "#D83B01",
+        },{
+        title: "Google Ads Managing",
+          company: "Amassi Shop",
+          logo_path: "AMASI-gg.png",
+          duration: "FEB 24 - JUL 24",
           location: "Work From Home",
           color: "#D83B01",
         },

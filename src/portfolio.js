@@ -485,7 +485,7 @@ const experience = {
         },
         {
 
-          title: "snapcaht Campaign",
+          title: "Snapchat Campaign",
           company: "Results for traffic campaign  ",
           logo_path: "snapads.jpg",
           duration: "Apr  2022",

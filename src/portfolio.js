@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Hamza Fakhir Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    
   },
 }; 
 
